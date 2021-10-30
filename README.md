@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=canyksel&theme=blue-green">
+
+<img align="left" alt="canyksel Github Stats" src="https://github-readme-stats.vercel.app/apiusername=canyksel&count_private=true&show_icons=true&hide_border=true&theme=blue-green" />
+
+<img align="left"  alt="canyksel Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canyksel&theme=blue-green&count_private=true&layout=compact" />
